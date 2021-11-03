@@ -1,0 +1,5 @@
+connect bitbash.xyz 9050
+login <your login> <your password>
+move north
+stats
+quit
